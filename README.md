@@ -6,3 +6,5 @@
 ### Advanced JavaScript
 Ex. 1 - Git Tutorial Basics
 (Check commits for better details)
+(Not really...)
+(Basically did a bunch of basic Git commands)
